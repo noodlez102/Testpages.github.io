@@ -1,0 +1,9 @@
+{
+    "name":"TOdos",
+    "version":"1.0.0",
+    "description":"Boston hackathon extension",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"index.html"
+    }
+}
